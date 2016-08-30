@@ -12,7 +12,8 @@ module.exports = {
       'reflect-metadata',
       '@angular/core',
       '@angular/common',
-      '@angular/platform-browser-dynamic'
+      '@angular/platform-browser-dynamic',
+      'zone.js'
     ],
     'app': './app/app'
   },
